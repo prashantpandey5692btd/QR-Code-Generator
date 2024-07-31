@@ -4,4 +4,5 @@ Install qrcode and image libraries in cmd.
   pip install qrcode
   pip install image
 
-![Screenshot (6)](https://github.com/user-attachments/assets/a605c759-0343-4ecb-b308-032ce0fd3085)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/f4f91d86-5e58-4891-ae26-a7d2a3d85429)
